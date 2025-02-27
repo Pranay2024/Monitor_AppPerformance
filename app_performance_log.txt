@@ -1,0 +1,68 @@
+
+Performance for Docker Desktop:
+Avg. CPU Usage: 10.20%
+Avg. Memory Usage: 0.00 MB
+--------------------------------------------------
+
+Performance for IBM Personal Communications (x64):
+Avg. CPU Usage: 6.40%
+Avg. Memory Usage: 0.00 MB
+--------------------------------------------------
+Beyond Compare 4.4.7: CPU=12.30%, Memory=0.00MB
+Docker Desktop: CPU=10.70%, Memory=0.00MB
+Snagit 2024: CPU=6.90%, Memory=0.00MB
+Docker Desktop: CPU=9.00%, Memory=0.00MB
+Snagit 2024: CPU=11.30%, Memory=0.00MB
+Git: CPU=10.30%, Memory=0.00MB
+Git: CPU=11.20%, Memory=0.00MB
+Git: CPU=24.70%, Memory=0.00MB
+Docker Desktop: CPU=9.60%, Memory=0.00MB
+Git: CPU=16.90%, Memory=0.00MB
+Snagit 2024: CPU=18.10%, Memory=0.00MB
+Snagit 2024: CPU=41.10%, Memory=0.00MB
+Snagit 2024: CPU=33.80%, Memory=0.00MB
+Snagit 2024: CPU=29.60%, Memory=0.00MB
+Snagit 2024: CPU=44.70%, Memory=0.00MB
+Snagit 2024: CPU=43.30%, Memory=0.00MB
+Snagit 2024: CPU=37.70%, Memory=0.00MB
+Snagit 2024: CPU=36.80%, Memory=0.00MB
+Snagit 2024: CPU=41.10%, Memory=0.00MB
+Snagit 2024: CPU=42.20%, Memory=0.00MB
+Snagit 2024: CPU=48.10%, Memory=0.00MB
+Snagit 2024: CPU=52.50%, Memory=0.00MB
+Snagit 2024: CPU=52.50%, Memory=0.00MB
+Snagit 2024: CPU=42.60%, Memory=0.00MB
+Snagit 2024: CPU=34.50%, Memory=0.00MB
+Snagit 2024: CPU=27.20%, Memory=0.00MB
+Snagit 2024: CPU=21.40%, Memory=0.00MB
+Endpoint Classifier: CPU=23.90%, Memory=0.00MB
+Skype for Business Basic 2016 - en-us: CPU=25.40%, Memory=0.00MB
+Docker Desktop: CPU=12.50%, Memory=0.00MB
+Beyond Compare 4.4.7: CPU=22.20%, Memory=0.00MB
+Git: CPU=17.60%, Memory=0.00MB
+Snagit 2024: CPU=16.70%, Memory=0.00MB
+Docker Desktop: CPU=13.00%, Memory=0.00MB
+Beyond Compare 4.4.7: CPU=10.30%, Memory=0.00MB
+Snagit 2024: CPU=3.00%, Memory=0.00MB
+Beyond Compare 4.4.7: CPU=2.70%, Memory=0.00MB
+Beyond Compare 4.4.7: CPU=4.80%, Memory=0.00MB
+Docker Desktop: CPU=3.10%, Memory=0.00MB
+Beyond Compare 4.4.7: CPU=3.60%, Memory=0.00MB
+Docker Desktop: CPU=5.60%, Memory=0.00MB
+Docker Desktop: CPU=2.70%, Memory=0.00MB
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64): CPU=2.60%, Memory=0.00MB
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64): CPU=2.20%, Memory=0.00MB
+IBM Personal Communications (x64): CPU=2.60%, Memory=0.00MB
+IBM Personal Communications (x64): CPU=2.50%, Memory=0.00MB
+Docker Desktop: CPU=4.30%, Memory=0.00MB
+Beyond Compare 4.4.7: Response Time=13.31ms, CPU=3.70%, Memory=0.00MB
+IBM Personal Communications (x64): Response Time=9.54ms, CPU=1.60%, Memory=0.00MB
+BIG-IP Edge Client Components (All Users): Response Time=19.39ms, CPU=5.20%, Memory=0.00MB
+Beyond Compare 4.4.7: CPU=7.70%, Memory=0.00MB, Response Time=1012.11ms
+Visual Studio Build Tools 2019: CPU=3.00%, Memory=0.00MB, Response Time=1012.28ms
+Visual Studio Build Tools 2019: CPU=2.60%, Memory=0.00MB, Response Time=1014.97ms
+Visual Studio Build Tools 2019: CPU=4.30%, Memory=0.00MB, Response Time=1011.32ms
+Beyond Compare 4.4.7: CPU=2.70%, Memory=0.00MB, Response Time=1019.57ms
+Docker Desktop: CPU=3.80%, Memory=0.00MB, Response Time=1013.82ms
+Docker Desktop: CPU=8.70%, Memory=0.00MB, Response Time=1031.38ms
+Docker Desktop: CPU=8.30%, Memory=0.00MB, Response Time=1015.73ms
